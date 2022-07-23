@@ -1,0 +1,13 @@
+h1{
+    font-weight: bold;
+    background-color: pink;
+    font-size: 40 px;
+}
+ul{
+    color: blue;
+}
+a{
+    color: orange;
+    background-color: purple;
+    font-family: Verdana;
+}
